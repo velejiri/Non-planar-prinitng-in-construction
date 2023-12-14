@@ -4,4 +4,5 @@ While the CAD model is being prepared for 3D printing, it is sliced into layers.
 ## Findings
 Current research is focused on improving buildabuility of overhangs. Most experiments is done using clay prinitng. Results are presented in these papers:
 https://papers.cumincad.org/data/works/att/ecaade2023_282.pdf
+
 http://dare-conf.eu/ our paper starts at page 47 of the proceeding
