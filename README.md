@@ -1,0 +1,3 @@
+# Non-planar-prinitng-in-construction
+## Intro
+While the CAD model is being prepared for 3D printing, it is sliced into layers. Contrary to planar slicing, where an object is cut by horizontal planes and then a curve for the toolpath is generated from these intersections, non-planar slicing uses twisted planes for object cutting. It brings freedom to toolpath creation and each object can be printed in adjusted layers that reflect its geometry. Benefits of such printing are being explored in plastics and involve enhanced surface finish, cracking reduction and ability to print cantilevers. This projects goal is to test advantages of non-planar prinitng using clay and concrete.
